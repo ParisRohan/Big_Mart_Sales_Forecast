@@ -1,0 +1,15 @@
+1. Create a new environment
+a. open anaconda prompt
+b. paste the following command and wait for the installation to be complete
+	->  conda create -n rohan_bigmart_pred python=3.7
+c. enter-> activate rohan_bigmart_pred
+d. enter the path where you wish to open your notebook ->
+	cd C:\Users\Admin\Documents\Coding\Jupyter_Projects\Big_Mart_Sales_Forecast
+e. jupyter notebook
+
+
+
+python app.py
+
+
+dataset link: https://www.kaggle.com/datasets/mrmorj/big-mart-sales

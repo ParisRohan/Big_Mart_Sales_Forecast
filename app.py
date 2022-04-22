@@ -489,6 +489,10 @@ def predict():
     else:
         return render_template('result.html')
 
-if __name__=="__main__":
-    app.run(debug=True)
+#use this while running in local machine
+#if __name__=="__main__":
+#    app.run(debug=True)
 
+#use this while deploying
+if __name__ == "__main__":
+    app.run(host='0.0.0.0', port=8080)

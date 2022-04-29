@@ -41,6 +41,14 @@ Features:
 * Analyze the data distribution in each feature using graphs
 * Plot correlation matrix
 
+## Distribution of numerical features:
+![big_mart_num_cols](https://user-images.githubusercontent.com/49038495/165883914-6dd9750f-ecdf-4939-8648-bd80ab072d1c.png)
+
+## Distribution of categorical features:
+![big_mart_cat1](https://user-images.githubusercontent.com/49038495/165883940-9471911a-4f3b-4e18-80de-fe98c2abd12f.png)
+![big_mart_cat2](https://user-images.githubusercontent.com/49038495/165883952-31fb6e42-ee33-4564-9733-59b0e3cba485.png)
+
+
 # Data-preprocessing:
 * Handling outliers using IQR
 * Handling missing values using bfill, ffill and mean
